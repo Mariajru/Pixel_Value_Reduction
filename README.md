@@ -13,7 +13,7 @@
 
 <hr>
 
-Light management software to reduce the emitted light per pixel in OLED displays by considering the contrast sensitivity function. Given an image, the energy per pixel is reduced depending on its spatial frequency while preserving the contrast appearance.
+Light management software that reduces the emitted light per pixel in OLED displays by considering the contrast sensitivity function. Given an image, the energy per pixel is reduced depending on its spatial frequency while preserving the contrast appearance.
 
 ## How it works
 
