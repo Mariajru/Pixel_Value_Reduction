@@ -7,7 +7,6 @@
 <hr>
 
 <p align="center">
-    <a href="#the-pitch">The Pitch</a> |
     <a href="#how-it-works">How it works</a> |
     <a href="#references">References</a>   
 </p>
