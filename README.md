@@ -2,6 +2,8 @@
 
 # Pixel Value Reduction
 
+<em>The [document](./documents/) folder contains more information about the pixel value reduction MATLAB script.</em>
+
 <hr>
 
 <p align="center">
@@ -11,10 +13,6 @@
 </p>
 
 <hr>
-
-<em>The [document](./documents/) folder contains more information about the pixel value reduction MATLAB script.</em>
-
-## The Pitch
 
 Light management software to reduce the emitted light per pixel in OLED displays by considering the contrast sensitivity function. Given an image, the energy per pixel is reduced depending on its spatial frequency while preserving the contrast appearance.
 
