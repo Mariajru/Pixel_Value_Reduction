@@ -7,7 +7,7 @@ clear all; close all;
 I = imread('cat3.jpeg');
 figure('Name', 'Original Image'); imshow(I);
 truesize
-s = 0.102;	% Physically measure of the image (m)
+s = 0.102;	% Image size (m)
 a = s/1024;	% Pixel size (used in the spatial fq calculation) (m)
 d = 0.51;	% Distance from the screen (m)
 
