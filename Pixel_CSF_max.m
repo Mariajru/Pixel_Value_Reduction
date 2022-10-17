@@ -7,8 +7,8 @@ clear all; close all;
 I = imread('cat3.jpeg');
 figure('Name', 'Original Image'); imshow(I);
 truesize
-s = 0.102;  % Physically measure of the image (m)
-a = s/1024; % Pixel size (used in the spatial fq calculation) (m)
+s = 0.102;	% Physically measure of the image (m)
+a = s/1024;	% Pixel size (used in the spatial fq calculation) (m)
 d = 0.51;	% Distance from the screen (m)
 
 %% DWT. Calculates the coefficiets of Vertical (V), Horizontal (H) 
